@@ -45,7 +45,7 @@ The addition of the Attention layer transformed the model's performance. By allo
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/nmt-vietnamese-english.git
+   git clone https://github.com/aditidankar/NaturalMachineTranslation.git
    ```
 
 2.  Install dependencies:
